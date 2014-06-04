@@ -1,0 +1,65 @@
+@orange: #FF6C00;
+@light-orange: #FFEBD4;
+@gray: #666666;
+@light-gray: #EEEEEE;
+@black: #121212;
+@white: #ffffff;
+@sans-serif: Tahoma, Geneva, sans-serif;
+@serif: Georgia, Century, Times, serif;
+
+
+.sans-serif_12px {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 75%;
+}
+
+.sans-serif_14px {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 87.5%;
+}
+
+.sans-serif_16px {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 100%;
+}
+
+.image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.outer_shadow {
+  box-shadow: 0em 0em 0.3em 0em rgba(50, 50, 50, 0.2);
+  border-radius: 1%;
+}
+
+
+.inner_shadow {
+  box-shadow: 0em 0em 0.7em 0em rgba(100, 100, 100, 1) inset;
+
+}
+
+.orange_button {
+               cursor: pointer;
+               background: @orange;
+               font-size: 100%;
+               font-weight: bold;
+               font-family: @sans-serif;
+               color: @white;
+               text-align: center;
+               border: solid 0em @light-orange;
+               border-radius: 7%;
+               -moz-border-radius: 7%;
+               -webkit-border-radius: 7%;
+               background: linear-gradient(#ED875A, #DD5410);
+               background: -moz-linear-gradient(#ED875A, #DD5410);
+               background: -webkit-gradient(#ED875A, #DD5410);
+               transition: 0.2s;
+
+               &:hover {
+                       background: linear-gradient(#ED875A, #ED875A);
+                       background: -moz-linear-gradient(#ED875A, #ED875A);
+                       background: -webkit-gradient(#ED875A, #ED875A);
+
+               }
+}

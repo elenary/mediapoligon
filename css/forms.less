@@ -1,0 +1,90 @@
+@import "import.less";
+
+
+.b-auth {
+           background: @light-orange;
+           padding: 5% 5% 5% 9.5%;
+           width: 30%;
+        //  text-align: center;
+            margin: 3% auto;
+
+           .outer_shadow;
+
+         label {
+                .sans-serif_16px;
+                 color: @black;
+                 }
+         a {
+            color:@gray;
+           text-decoration: underline;
+           margin: 20% 0% 0% 15%;
+           .sans-serif_14px;
+         }
+}
+
+.b-auth__field {
+                width: 80%;
+                padding: 3%;
+                 margin-bottom: 5%;
+                outline-color: @orange;
+
+  &:focus {
+                         border: 1px solid rgb(178, 178, 178);
+                         }
+}
+
+.b-auth__button {
+               width:40%;
+               padding: 3% 3%;
+               .orange_button;
+}
+
+
+
+.b-reg {
+  background: @light-orange;
+  padding: 5% 5% 5% 9.5%;
+  width: 60%;
+  //  text-align: center;
+  margin: 3% auto;
+    .outer_shadow;
+  display: block;
+  text-align: right;
+
+
+
+  label {
+    .sans-serif_16px;
+    color: @black;
+    display: inline-block;
+
+  }
+
+}
+
+.b-reg__line {
+ // display: inline-block;
+
+}
+
+.b-reg-title{}
+
+.b-reg__field {
+  width: 70%;
+  padding: 2%;
+  margin-bottom: 5%;
+  outline-color: @orange;
+  //float: right;
+  display: inline-block;
+
+  &:focus {
+    border: 1px solid rgb(178, 178, 178);
+  }
+}
+
+.b-reg__button {
+  width:40%;
+  padding: 3% 3%;
+  .orange_button;
+  float:right;
+}
