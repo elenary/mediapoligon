@@ -178,10 +178,12 @@ Route::set('contacts', 'contacts')
         'action'     => 'contacts',
     ));
 
+Cookie::$salt = "33232";
+
 
 Route::set('authorization', 'authorization')
     ->defaults(array(
-        'controller' => 'main',
+        'controller' => 'auth',
         'action'     => 'authorization',
     ));
 
@@ -193,10 +195,30 @@ Route::set('registration', 'registration')
     ));
 
 
-Route::set('topic', 'news/topic')
+Route::set('topic', 'news/topic(/<id>)')
     ->defaults(array(
         'controller' => 'news',
         'action'     => 'topic',
+    ));
+
+
+Route::set('write', 'write')
+    ->defaults(array(
+        'controller' => 'admin',
+        'action'     => 'write',
+    ));
+
+Route::set('newslist', 'newslist')
+    ->defaults(array(
+        'controller' => 'admin',
+        'action'     => 'newslist',
+    ));
+
+
+Route::set('edit', 'admin/edit(/<id>)')
+    ->defaults(array(
+        'controller' => 'admin',
+        'action'     => 'edit',
     ));
 
 Route::set('default', '(<controller>(/<action>(/<id>)))')

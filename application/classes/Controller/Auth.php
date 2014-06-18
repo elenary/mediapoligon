@@ -4,6 +4,10 @@ class Controller_Auth extends Controller_Template {
 
    // public $template = 'layouts/auth';
 
+    public function before() {
+        parent::before();
+    }
+
     public function action_authorization() {
         if (isset($_POST) && Valid::not_empty($_POST)) {
             $post = Validation::factory($_POST)
@@ -30,7 +34,7 @@ class Controller_Auth extends Controller_Template {
         } else {
             $data = array();
         }
-        $this->template->content = View::factory('/auth/index', $data);
+        $this->template->content = View::factory('authorization', $data);
     }
 
     public function action_logout() {

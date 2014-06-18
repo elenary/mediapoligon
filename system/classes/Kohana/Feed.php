@@ -101,7 +101,7 @@ class Kohana_Feed {
 
 				if ( ! isset($value['link'], $value['url'], $value['title']))
 				{
-					throw new Kohana_Exception('Feed images require a link, url, and title');
+					throw new Kohana_Exception('Feed img require a link, url, and title');
 				}
 
 				if (strpos($value['link'], '://') === FALSE)

@@ -4,11 +4,12 @@ class Controller_Main extends Controller_Template {
 
 	public function action_index()
 	{
-        //  $topics = ORM::factory('Topic', 1)->as_array();
-        // ------------------------------------------------как объединить предыдущую строчку со следующей?-------------------------
+
         $content = View::factory('index', array(
         'topics' => ORM::factory('Topic')->find_all()
     ));
+        $content2 = View::factory('index');
+        $this->template->content = $content2;
 
         $this->template->content = $content;
        // $this->response->title('арары');
@@ -26,6 +27,13 @@ class Controller_Main extends Controller_Template {
     {
         $content = View::factory('partners');
         $this->template->content = $content;
+        /*
+        $user = ORM::factory('User', $this->request->param('id'));
+        $user->username = $this->request->param('username');
+        $user->save();
+
+        $user->update();
+        */
     }
 
     public function action_authors()
@@ -40,11 +48,6 @@ class Controller_Main extends Controller_Template {
     $this->template->content = $content;
 }
 
-    public function action_authorization()
-    {
-        $content = View::factory('authorization');
-        $this->template->content = $content;
-    }
 
     public function action_registration()
     {

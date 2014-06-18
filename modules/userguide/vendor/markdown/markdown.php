@@ -234,7 +234,7 @@ class Markdown_Parser {
 	var $no_markup = false;
 	var $no_entities = false;
 	
-	# Predefined urls and titles for reference links and images.
+	# Predefined urls and titles for reference links and img.
 	var $predef_urls = array();
 	var $predef_titles = array();
 
@@ -794,7 +794,7 @@ class Markdown_Parser {
 	# Turn Markdown image shortcuts into <img> tags.
 	#
 		#
-		# First, handle reference-style labeled images: ![alt text][id]
+		# First, handle reference-style labeled img: ![alt text][id]
 		#
 		$text = preg_replace_callback('{
 			(				# wrap whole match in $1
@@ -814,7 +814,7 @@ class Markdown_Parser {
 			array(&$this, '_doImages_reference_callback'), $text);
 
 		#
-		# Next, handle inline images:  ![alt text](url "optional title")
+		# Next, handle inline img:  ![alt text](url "optional title")
 		# Don't forget: encode * and _
 		#
 		$text = preg_replace_callback('{

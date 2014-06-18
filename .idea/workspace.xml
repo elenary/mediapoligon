@@ -4,40 +4,56 @@
     <list default="true" id="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" name="Default" comment="" />
     <ignored path="mediapoligon.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401542508263" ignored="false" />
+    <file path="/index.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009127737" ignored="false" />
     <file path="/header.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400311187010" ignored="false" />
     <file path="/footer.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400312312729" ignored="false" />
     <file path="/newstop_hor.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400315924145" ignored="false" />
     <file path="/styles.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401100293563" ignored="false" />
     <file path="/phpmyadmin_config.inc.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400432531423" ignored="false" />
     <file path="$PROJECT_DIR$/old/js/jquery-1.11.1.js" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400442304932" ignored="false" />
-    <file path="$PROJECT_DIR$/system/classes/Kohana/Request.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400442304932" ignored="false" />
-    <file path="$PROJECT_DIR$/system/classes/Kohana/URL.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400442304932" ignored="false" />
-    <file path="/bootstrap.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400834552438" ignored="false" />
-    <file path="/Topic.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400962901128" ignored="false" />
+    <file path="/bootstrap.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403076661844" ignored="false" />
+    <file path="/Topic.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403085580480" ignored="false" />
     <file path="/Geo.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400668773698" ignored="false" />
     <file path="/Project.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400450778483" ignored="false" />
-    <file path="/User.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400450787374" ignored="false" />
+    <file path="/User.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401902756959" ignored="false" />
     <file path="/Welcome.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400507380032" ignored="false" />
-    <file path="/a.dummy" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401181397762" ignored="false" />
+    <file path="/a.dummy" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403068455687" ignored="false" />
     <file path="/Page.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400669355940" ignored="false" />
     <file path="/about.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400603073727" ignored="false" />
-    <file path="/template.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401547051910" ignored="false" />
+    <file path="/template.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009441390" ignored="false" />
     <file path="/Administration.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400614747719" ignored="false" />
     <file path="/Data.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400657287212" ignored="false" />
     <file path="/topic.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401098598106" ignored="false" />
     <file path="/auth.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400694690340" ignored="false" />
     <file path="/registration.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401883842724" ignored="false" />
-    <file path="/Auth.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401896763290" ignored="false" />
-    <file path="/Main.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401877372370" ignored="false" />
+    <file path="/Auth.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401903532364" ignored="false" />
+    <file path="/Main.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401903719811" ignored="false" />
     <file path="/Pages.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400757641362" ignored="false" />
-    <file path="/News.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1400836488699" ignored="false" />
-    <file path="/topic.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401776332031" ignored="false" />
-    <file path="/authorization.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401875385295" ignored="false" />
-    <file path="/styles.less" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401549627696" ignored="false" />
-    <file path="/topic.less" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401542536190" ignored="false" />
+    <file path="/News.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401900390482" ignored="false" />
+    <file path="/topic.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403082940588" ignored="false" />
+    <file path="/authorization.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401902497072" ignored="false" />
+    <file path="/styles.less" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403014027661" ignored="false" />
+    <file path="/topic.less" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1402295174634" ignored="false" />
     <file path="/forms.less" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401883231604" ignored="false" />
-    <file path="/import.less" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401875195784" ignored="false" />
+    <file path="/import.less" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1402864421080" ignored="false" />
+    <file path="D:/admin_panel/admin_panel/admin.somethin.ru/docs/application/views/layouts/admin.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1401901311773" ignored="false" />
+    <file path="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc/Markdown.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/js/jquery-ui-1.10.4.custom/development-bundle/themes/base/jquery.ui.core.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/js/jquery-ui-1.10.4.custom/development-bundle/themes/base/jquery-ui.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/modules/userguide/vendor/markdown/markdown.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/js/jquery-ui-1.10.4.custom/development-bundle/themes/ui-lightness/jquery.ui.core.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/js/jquery-ui-1.10.4.custom/development-bundle/themes/ui-lightness/jquery-ui.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/modules/image/classes/Kohana/Image.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/modules/userguide/init.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/js/jquery-ui-1.10.4.custom/development-bundle/themes/base/jquery.ui.theme.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/modules/userguide/classes/Kohana/Controller/Userguide.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="$PROJECT_DIR$/js/jquery-ui-1.10.4.custom/development-bundle/themes/ui-lightness/jquery.ui.theme.css" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403009490474" ignored="false" />
+    <file path="/Admin.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403087953030" ignored="false" />
+    <file path="$PROJECT_DIR$/jquery-ui-1.10.4/development-bundle/demos/index.html" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403012592621" ignored="false" />
+    <file path="/write.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403080481931" ignored="false" />
+    <file path="/Tag.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403068601520" ignored="false" />
+    <file path="/newslist.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403092433062" ignored="false" />
+    <file path="/edit.php" changelist="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" time="1403077944257" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +73,152 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Auth.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/classes/Controller/Auth.php">
+      <file leaf-file-name="template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="850" selection-end="850" vertical-scroll-proportion="0.33496332">
+            <state line="39" column="40" selection-start="1587" selection-end="1605" vertical-scroll-proportion="-25.5">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="import.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/import.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="write.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/write.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="221" column="27" selection-start="7644" selection-end="7644" vertical-scroll-proportion="-3.4230769">
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#4;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#form#0;n#div#0;n#td#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#8;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#8;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#8;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#9;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#9;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#9;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#10;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#10;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#10;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#12;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#12;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#12;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#13;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#13;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#13;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-17.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tag.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/classes/Model/Tag.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="-8.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Topic.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/classes/Model/Topic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.44041452">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/classes/Controller/Admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="-7.8461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/classes/Controller/Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="53" selection-start="193" selection-end="253" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="25" selection-start="2008" selection-end="2008" vertical-scroll-proportion="-29.423077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newslist.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/newslist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="16" selection-start="2966" selection-end="2966" vertical-scroll-proportion="-9.538462">
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#4;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#6;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#7;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#8;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#9;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,31 +233,31 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/css/less.js" />
-        <option value="$PROJECT_DIR$/application/bootstrap.php" />
-        <option value="$PROJECT_DIR$/application/views/partners.php" />
-        <option value="$PROJECT_DIR$/js/css3-mediaqueries.js" />
-        <option value="$PROJECT_DIR$/application/views/index.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Main.php" />
         <option value="$PROJECT_DIR$/css/topic.less" />
+        <option value="$PROJECT_DIR$/js/jquery-1.11.1.js" />
         <option value="$PROJECT_DIR$/application/views/template.php" />
         <option value="$PROJECT_DIR$/css/styles.less" />
+        <option value="$PROJECT_DIR$/js/jquery-1.10.2.js" />
+        <option value="$PROJECT_DIR$/application/classes/Model/Tags.php" />
+        <option value="$PROJECT_DIR$/application/classes/Model/Tag.php" />
+        <option value="$PROJECT_DIR$/application/bootstrap.php" />
+        <option value="$PROJECT_DIR$/application/views/edit.php" />
+        <option value="$PROJECT_DIR$/application/views/write.php" />
+        <option value="$PROJECT_DIR$/application/views/index.php" />
         <option value="$PROJECT_DIR$/application/views/topic.php" />
-        <option value="$PROJECT_DIR$/css/import.less" />
-        <option value="$PROJECT_DIR$/application/views/authorization.php" />
-        <option value="$PROJECT_DIR$/application/classes/Controller/Main.php" />
-        <option value="$PROJECT_DIR$/css/forms.less" />
-        <option value="$PROJECT_DIR$/application/views/registration.php" />
-        <option value="$PROJECT_DIR$/application/classes/Controller/Auth.php" />
+        <option value="$PROJECT_DIR$/application/classes/Model/Topic.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Admin.php" />
+        <option value="$PROJECT_DIR$/application/views/newslist.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="43" />
-    <option name="width" value="1044" />
-    <option name="height" value="620" />
+    <option name="x" value="105" />
+    <option name="y" value="7" />
+    <option name="width" value="1458" />
+    <option name="height" value="859" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -158,20 +315,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mediapoligon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mediapoligon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,23 +436,23 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="last_opened_file_path" value="D:/admin_panel" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\mediapoligon\js" />
+      <recent name="D:\OpenServer\domains\mediapoligon\css" />
+      <recent name="D:\OpenServer\domains\mediapoligon\img" />
       <recent name="D:\OpenServer\domains\mediapoligon\application\config" />
       <recent name="D:\OpenServer\domains\mediapoligon\application\views" />
-      <recent name="D:\OpenServer\domains\mediapoligon\application" />
-      <recent name="D:\OpenServer\domains\mediapoligon" />
-      <recent name="D:\! Учебище\! Диплом\mediapoligon" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\OpenServer\domains\mediapoligon\css\css" />
       <recent name="D:\OpenServer\domains\mediapoligon" />
-      <recent name="D:\OpenServer\domains\mediapoligon\application\js" />
-      <recent name="D:\OpenServer\domains\mediapoligon\application\views" />
-      <recent name="D:\OpenServer\domains\mediapoligon\application\views\zakovyr" />
+      <recent name="D:\OpenServer\domains\mediapoligon\photo" />
+      <recent name="D:\OpenServer\domains\mediapoligon\js" />
+      <recent name="D:\OpenServer\domains\mediapoligon\application\config" />
+      <recent name="D:\OpenServer\domains\mediapoligon\css\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -330,6 +473,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="94ba47ac-5a05-4c46-afef-9fab8b60cc9b" name="Default" comment="" />
@@ -339,24 +499,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="43" width="1044" height="620" extended-state="1" />
+    <frame x="105" y="7" width="1458" height="859" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.068571426" sideWeight="0.69412607" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24949084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24949084" sideWeight="0.67285717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24928367" sideWeight="0.84" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25358167" sideWeight="0.93142855" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.068571426" sideWeight="0.30587393" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -430,9 +590,177 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Auth.php">
+    <entry file="file://$PROJECT_DIR$/application/classes/Model/Tag.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="850" selection-end="850" vertical-scroll-proportion="0.33496332">
+        <state line="13" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/import.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/topic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="100" selection-end="100" vertical-scroll-proportion="0.15017667">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/topic.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="1" selection-start="397" selection-end="397" vertical-scroll-proportion="0.62229615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="40" selection-start="1587" selection-end="1605" vertical-scroll-proportion="-25.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.7288427">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="0" selection-start="5905" selection-end="5905" vertical-scroll-proportion="-99.57692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="53" selection-start="193" selection-end="253" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/newslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="16" selection-start="2966" selection-end="2966" vertical-scroll-proportion="-9.538462">
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#6;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#7;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#8;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#9;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="25" selection-start="2008" selection-end="2008" vertical-scroll-proportion="-29.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/write.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="221" column="27" selection-start="7644" selection-end="7644" vertical-scroll-proportion="-3.4230769">
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#3;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#4;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#4;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#5;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#6;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#7;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#form#0;n#div#0;n#td#1;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#8;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#8;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#8;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#9;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#9;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#9;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#10;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#10;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#10;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#td#1;n#tr#11;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#12;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#12;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#12;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#13;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#13;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#13;n#tbody#0;n#table#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-17.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Model/Topic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.44041452">
           <folding />
         </state>
       </provider>

@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 
-// Static file serving (CSS, JS, images)
+// Static file serving (CSS, JS, img)
 Route::set('docs/media', 'guide-media(/<file>)', array('file' => '.+'))
 	->defaults(array(
 		'controller' => 'Userguide',

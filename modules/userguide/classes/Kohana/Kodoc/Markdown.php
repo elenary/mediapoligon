@@ -16,7 +16,7 @@ class Kohana_Kodoc_Markdown extends MarkdownExtra_Parser {
 	public static $base_url = '';
 
 	/**
-	 * @var  string  base url for images
+	 * @var  string  base url for img
 	 */
 	public static $image_url = '';
 	
@@ -213,7 +213,7 @@ class Kohana_Kodoc_Markdown extends MarkdownExtra_Parser {
 	}
 
 	/**
-	 * Add the current base url to all local images.
+	 * Add the current base url to all local img.
 	 *
 	 *     ![Install Page](img/install.png "Optional title")
 	 *

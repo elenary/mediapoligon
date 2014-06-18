@@ -30,7 +30,7 @@ abstract class Kohana_Controller_Userguide extends Controller_Template {
 			$this->media = Route::get('docs/media');
 			$this->guide = Route::get('docs/guide');
 
-			// Set the base URL for links and images
+			// Set the base URL for links and img
 			Kodoc_Markdown::$base_url  = URL::site($this->guide->uri()).'/';
 			Kodoc_Markdown::$image_url = URL::site($this->media->uri()).'/';
 		}

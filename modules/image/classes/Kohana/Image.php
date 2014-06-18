@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') OR die('No direct script access.');
 /**
- * Image manipulation support. Allows images to be resized, cropped, etc.
+ * Image manipulation support. Allows img to be resized, cropped, etc.
  *
  * @package    Kohana/Image
  * @category   Base
@@ -545,7 +545,7 @@ abstract class Kohana_Image {
 	}
 
 	/**
-	 * Set the background color of an image. This is only useful for images
+	 * Set the background color of an image. This is only useful for img
 	 * with alpha transparency.
 	 *
 	 *     // Make the image background black

@@ -1,7 +1,7 @@
 {
 	"name":        "kohana/image",
 	"type":        "kohana-module",
-	"description": "The official Kohana module for manipulating images",
+	"description": "The official Kohana module for manipulating img",
 	"homepage":    "http://kohanaframework.org",
 	"license":     "BSD-3-Clause",
 	"keywords":    ["kohana", "framework", "image"],

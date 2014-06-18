@@ -35,9 +35,9 @@
         </div>
 
         <div class="b-logo">
-            <div class="b-logo__text">РУССКИЙ ЯЗЫК</div>
+         <!--   <div class="b-logo__text">РУССКИЙ ЯЗЫК</div> -->
         <a href="/index">
-            <img src="../../images/logo.png" alt="logo">
+            <img src="../../img/logo.png" alt="logo">
 
         </a>
         </div>
@@ -72,7 +72,15 @@
 
     </div>
 
+
+
+
+
     <?php echo $content; ?>
+
+
+
+
 
 
     <footer class="footer">

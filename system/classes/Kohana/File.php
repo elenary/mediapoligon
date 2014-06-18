@@ -31,7 +31,7 @@ class Kohana_File {
 
 		if (preg_match('/^(?:jpe?g|png|[gt]if|bmp|swf)$/', $extension))
 		{
-			// Use getimagesize() to find the mime type on images
+			// Use getimagesize() to find the mime type on img
 			$file = getimagesize($filename);
 
 			if (isset($file['mime']))

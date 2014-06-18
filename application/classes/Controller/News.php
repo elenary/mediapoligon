@@ -7,7 +7,7 @@ class Controller_News extends Controller_Template {
         //  $topics = ORM::factory('Topic', 1)->as_array();
         // ------------------------------------------------как объединить предыдущую строчку со следующей?-------------------------
         $content = View::factory('topic', array(
-            'topics' => ORM::factory('Topic')->find_all()
+            'topic' => ORM::factory('Topic', $this->request->param('id'))
         ));
 
         $this->template->content = $content;

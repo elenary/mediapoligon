@@ -178,7 +178,7 @@ class Kohana_Image_Imagick extends Image {
 		// Force the background color to be transparent
 		// $image->setImageBackgroundColor(new ImagickPixel('transparent'));
 
-		// Match the colorspace between the two images before compositing
+		// Match the colorspace between the two img before compositing
 		$image->setColorspace($this->im->getColorspace());
 
 		// Place the image and reflection into the container
@@ -216,7 +216,7 @@ class Kohana_Image_Imagick extends Image {
 			$watermark->evaluateImage(Imagick::EVALUATE_MULTIPLY, $opacity / 100, Imagick::CHANNEL_ALPHA);
 		}
 
-		// Match the colorspace between the two images before compositing
+		// Match the colorspace between the two img before compositing
 		// $watermark->setColorspace($this->im->getColorspace());
 
 		// Apply the watermark to the image
@@ -244,7 +244,7 @@ class Kohana_Image_Imagick extends Image {
 		// NOTE: Using setImageOpacity will destroy current alpha channels!
 		$background->evaluateImage(Imagick::EVALUATE_MULTIPLY, $opacity / 100, Imagick::CHANNEL_ALPHA);
 
-		// Match the colorspace between the two images before compositing
+		// Match the colorspace between the two img before compositing
 		$background->setColorspace($this->im->getColorspace());
 
 		if ($background->compositeImage($this->im, Imagick::COMPOSITE_DISSOLVE, 0, 0))
@@ -324,7 +324,7 @@ class Kohana_Image_Imagick extends Image {
 				$type = IMAGETYPE_PNG;
 			break;
 			default:
-				throw new Kohana_Exception('Installed ImageMagick does not support :type images',
+				throw new Kohana_Exception('Installed ImageMagick does not support :type img',
 					array(':type' => $extension));
 			break;
 		}

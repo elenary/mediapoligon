@@ -1,9 +1,9 @@
 <div class="content" style="margin-top: -2%;">
 
-    <?php foreach($topics as $topic):?>
-        <?php if ($topic->ID == '1') {?>
+
+
 <div class="b-article">
-   <img class="b-article__img" src="<?=$topic->getPhoto()?>" alt="Фото">
+   <?=$topic->getPhoto()?>
       <figcaption class="b-article__caption"> <?=$topic->getCaption()?> </figcaption>
       <figcaption class="b-article__author_media"> <?=$topic->getAuthor_media()?> </figcaption>
    <div class="b-article__title"> <?=$topic->getTitle()?> </div>
@@ -15,7 +15,7 @@
 
    <div class="semantic_diff">  </div>
 </div>
-    <?php } endforeach; ?>
+
 
 </div>
 

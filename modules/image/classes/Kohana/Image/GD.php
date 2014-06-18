@@ -106,7 +106,7 @@ class Kohana_Image_GD extends Image {
 
 		if ( ! isset($create) OR ! function_exists($create))
 		{
-			throw new Kohana_Exception('Installed GD does not support :type images',
+			throw new Kohana_Exception('Installed GD does not support :type img',
 				array(':type' => image_type_to_extension($this->type, FALSE)));
 		}
 
@@ -633,7 +633,7 @@ class Kohana_Image_GD extends Image {
 				$quality = 9;
 			break;
 			default:
-				throw new Kohana_Exception('Installed GD does not support :type images',
+				throw new Kohana_Exception('Installed GD does not support :type img',
 					array(':type' => $extension));
 			break;
 		}

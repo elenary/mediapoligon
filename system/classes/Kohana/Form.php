@@ -388,7 +388,7 @@ class Kohana_Form {
 
 	/**
 	 * Creates a button form input. Note that the body of a button is NOT escaped,
-	 * to allow images and other HTML to be used.
+	 * to allow img and other HTML to be used.
 	 *
 	 *     echo Form::button('save', 'Save Profile', array('type' => 'submit'));
 	 *

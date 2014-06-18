@@ -13,6 +13,8 @@ class Model_Topic extends  Kohana_ORM {
         )
     );  */
 
+
+
     public function getID() {
         return $this->ID;
     }
@@ -20,10 +22,8 @@ class Model_Topic extends  Kohana_ORM {
     public function getPhoto() {
 
         if (isset($this->photo)) {
-     //    '<img src="';
-            return $this->photo;
-     //       echo '" alt="Фото">';
-        }
+            echo "<img src='../../photo/", $this->photo, " ' style='max-width: 100%; height: auto;' alt='Фото'>";
+      }
     }
 
     public function getCaption() {
@@ -102,7 +102,50 @@ class Model_Topic extends  Kohana_ORM {
         return $this->tags;
     }
 
+    public function getIn_top() {
+        if ($this->in_top == 'Yes')
+        {
+           echo "<img src='../../img/thumb.png' alt='intop' ";
+        }
+    }
 
+    public function getFormat() {
 
+        return $this->format;
+    }
+
+    public function checkPhoto() {
+
+        if (isset($this->photo))
+        {
+            echo "<img src='../../img/photo.png' alt='photo' ";
+        }
+    }
+
+    public function checkVideo() {
+
+        if (isset($this->video))
+        {
+            echo "<img src='../../img/photo.png' alt='photo' ";
+        }
+    }
+
+    public function getChecked_by_korr() {
+
+        if ($this->checked_by_korr == 'Yes')
+              echo "<img src='../../img/check.png' alt='yes' ";
+        else
+              echo "<img src='../../img/cross.png' alt='no' ";
+
+    }
+
+    public function getPublished() {
+
+        if ($this->published == 'Yes')
+            echo "<img src='../../img/check.png' alt='yes' ";
+        else
+            echo "<img src='../../img/cross.png' alt='no' ";
+
+    }
 
 }
