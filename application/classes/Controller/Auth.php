@@ -15,18 +15,14 @@ class Controller_Auth extends Controller_Template {
                 ->rule('password', 'not_empty')
                 ->rule('password', 'min_length', array(':value', 3));
 
-
             if ($post->check() && Auth::instance()->login(
                     $post['login'], $post['password'], true
                 )) {
-                if (Auth::instance()->logged_in('admin')) {
-                    $this->redirect('/index/index/');
-                }
+                $this->redirect('/index');
             } else {
                 $login_errors = __('Неверная комбинация логин/пароль');
             }
             $errors = $post->errors('validation', 'ru');
-
             $data = array(
                 'errors' => $errors,
                 'login_errors' => $login_errors
@@ -39,7 +35,7 @@ class Controller_Auth extends Controller_Template {
 
     public function action_logout() {
         Auth::instance()->logout(FALSE, TRUE);
-        $this->redirect('/admin/auth');
+        $this->redirect('/index');
     }
 
 }

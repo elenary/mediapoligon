@@ -22,17 +22,29 @@
 <div class="wrapper">
 
     <header class="header">
-
-        <div class="b-toppanel" >
-            <div class="b-toppanel__linkleft">
-            <a href="http://rusrep.ru"> "Русский репортер"</a>
+        <?php if (!Auth::instance()->logged_in()): ?>
+            <div class="b-toppanel" >
+                <div class="b-toppanel__linkleft">
+                <a href="http://rusrep.ru"> "Русский репортер"</a>
+                </div>
+                <div class="b-toppanel__linkright">
+                <a href="/authorization" > Вход </a> &nbsp; /
+                <a href="/registration"> Регистрация </a>
+                </div>
             </div>
-            <div class="b-toppanel__linkright">
-            <a href="/authorization" > Вход </a> &nbsp; /
-            <a href="/registration"> Регистрация </a>
+        <?php endif; ?>
+        
+       <?php if (Auth::instance()->logged_in('corresp')): ?>
+            <div class="b-toppanel" >
+                <div class="b-toppanel__linkleft">
+                <a href="http://rusrep.ru"> "Русский репортер"</a>
+                </div>
+                <div class="b-toppanel__linkright">
+                <a href="/corresp/write" > Написать новость  </a> &nbsp;
+                <a href="/auth/logout" > Выход </a> &nbsp; /
+                </div>
             </div>
-
-        </div>
+        <?php endif; ?>
 
         <div class="b-logo">
          <!--   <div class="b-logo__text">РУССКИЙ ЯЗЫК</div> -->

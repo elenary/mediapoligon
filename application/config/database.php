@@ -8,7 +8,7 @@ return array
         'connection' => array(
             'hostname'   => 'localhost',
             'username'   => 'root',
-            'password'   => '',
+            'password'   => 'root',
             'persistent' => FALSE,
             'database'   => 'mediapoligon',
         ),

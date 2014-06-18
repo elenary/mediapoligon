@@ -11,7 +11,6 @@
                     <?= $login_errors; ?>
                 <?php endif; ?>
             </ul>
-            <a href="#" class="close">&times;</a>
         </div>
     <?php endif;?>
     <form method="POST">
